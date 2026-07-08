@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.agenticidentity</groupId>
-	<artifactId>spring</artifactId>
+	<artifactId>agentruntime</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring</name>
+	<name>agentruntime</name>
 	<properties>
 		<java.version>21</java.version>
 		<spring-ai.version>2.0.0</spring-ai.version>

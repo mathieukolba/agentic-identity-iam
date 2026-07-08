@@ -1,4 +1,4 @@
-package com .agenticidentity.spring.agentruntime;
+package com.agenticidentity.agentruntime.runtime;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

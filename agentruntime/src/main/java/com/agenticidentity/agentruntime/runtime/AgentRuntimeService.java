@@ -1,11 +1,11 @@
-package com.agenticidentity.spring.agentruntime;
+package com.agenticidentity.agentruntime.runtime;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
 
 @Service
 public class AgentRuntimeService {
-    
+
     private final ChatClient chatClient;
 
     public AgentRuntimeService(ChatClient.Builder chatClientBuilder) {
